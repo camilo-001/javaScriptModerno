@@ -32,5 +32,5 @@ const entriePares = Object.entries(personaje); // manejando un objeto como arreg
 console.log(entriePares);
 
 const propiedades = Object.getOwnPropertyNames(personaje); // trae las keys de las propiedades del objeto personaje 
-const values = Object.values(personaje);
+const values = Object.values(personaje); // trae los values de las propiedades del objeto personaje
 console.log(propiedades, values);
