@@ -11,7 +11,6 @@ const imprimePropiedades = ({ nombre, codeName, itsLife, suits }) => { // esta e
     console.log(nombre)
     console.log(codeName)
     console.log(itsLife)
-
     console.log(suits)
 }
 
