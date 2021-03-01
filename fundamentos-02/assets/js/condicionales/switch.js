@@ -1,3 +1,5 @@
+let numero = 12;
+
 switch (numero) {
     case 10:
         console.log("el numero es mayor que 9 pero menor que 11")
