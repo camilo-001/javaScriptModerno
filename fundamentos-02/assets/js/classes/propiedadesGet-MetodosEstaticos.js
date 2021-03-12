@@ -48,8 +48,3 @@ Persona.mensaje();
 
 coercion 
 hoisting
-
-
-// spiderman.setComidaFavorita = 'La pizza';
-// console.log(spiderman.getComidaFavorita);
-// console.log(spiderman);
