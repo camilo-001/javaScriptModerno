@@ -1,6 +1,6 @@
 
 import { saludar } from './js/componentes.js' // importamos el archivo de componentes
-
+import './styles.css' // importando estilos GLOBALES de css
 
 /* const saludar = (nombre) => { // Esta fraccción de codigo ha sido movida al archivo de componentes
     console.log('creando etiqueta h1');

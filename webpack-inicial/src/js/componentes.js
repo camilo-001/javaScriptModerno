@@ -1,3 +1,6 @@
+import '../css/componentes.css'; // importando estilos especificos para componentes.js
+
+
 export const saludar = (nombre) => { // usamos el export para permitir el uso desde otro archivo de la función
     console.log('creando etiqueta h1 en el HTML del dist on server  ');
     const h1 = document.createElement('h1');
